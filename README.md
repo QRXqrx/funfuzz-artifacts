@@ -8,4 +8,4 @@ Specifically, the artifacts include:
 - `aflpp-fun`: The source code of FunFuzz.
 - `fun-scripts`: The python and bash scripts for running experiments and analyzing data.
 - `data`: The experiemtnal results presented in the submitted paper. 
-- `aflgo-funexp`: A modified version of [AFLGo artifact](https://github.com/aflgo/aflgo) for the purpose of FunFuzz experiments, which includes an extra customized compiler for extracting locations of function declarations, scripts for transforming the extracted locations into the format of target sites required by AFLGo, and a `README.md` documenting the experimental setups.
+- `aflgo-funexp`: A modified version of [AFLGo artifact](https://github.com/aflgo/aflgo) for the purpose of FunFuzz experiments (i.e., the `AllFunc` configuration described in the paper), which includes an extra customized compiler for extracting locations of function declarations, scripts for transforming the extracted locations into the format of target sites required by AFLGo, and a `README.md` documenting the experimental setups.
