@@ -3,7 +3,7 @@ The code and data of the TOSEM submission of FunFuzz.
 
 We are trying hard cleaning up the code and data. Full artifacts will be available soon :-).
 
-Specifically, the artifacts will include:
+Specifically, the artifacts include:
 
 - `aflpp-fun`: The source code of FunFuzz.
 - `fun-scripts`: The python and bash scripts for running experiments and analyzing data.
